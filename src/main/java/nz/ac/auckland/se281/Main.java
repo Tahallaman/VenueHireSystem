@@ -8,7 +8,6 @@ import java.util.regex.Pattern;
 import nz.ac.auckland.se281.Types.CateringType;
 import nz.ac.auckland.se281.Types.FloralType;
 
-/** You cannot modify this class! */
 public class Main {
 
   public enum Command {
