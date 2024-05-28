@@ -1,3 +1,2 @@
-# Assignment 1
+# VenueHireSystem
 
-You will find instructions for this assignment on the course website.
